@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "Integral-Bold";
+  src: url("./integralcf-bold.otf") format("opentype");
+  font-weight: bold;
+  font-display: swap;
+  font-style: normal;
+}
